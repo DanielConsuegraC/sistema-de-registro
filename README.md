@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema, se debe poner:
  ```rpm install react```
+
+Sistema de registro 2
